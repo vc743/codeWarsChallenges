@@ -2,7 +2,7 @@ Write a function to convert a name into initials. This kata strictly takes two w
 
 The output should be two capital letters with a dot separating them.
 
-It should look like this:
+**It should look like this:**
 
 ```javascript
 Sam Harris => S.H
